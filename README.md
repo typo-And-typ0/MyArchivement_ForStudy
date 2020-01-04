@@ -1,2 +1,0 @@
-# MyArchivement_ForStudy
-test
